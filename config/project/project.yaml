@@ -1,0 +1,22 @@
+dateModified: 1695570336
+email:
+  fromEmail: admin@rijam.ml1.net
+  fromName: 'GigaDB CMS'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    9d3df531-4efc-403f-9ce6-26de65b4c56e: 'GigaDB CMS' # GigaDB CMS
+    794caefa-4c9a-4eca-8f28-00d0f726f290: Common # Common
+    a546404d-d266-44e4-8043-45f37c896067: 'GigaDB CMS' # GigaDB CMS
+system:
+  edition: solo
+  live: true
+  name: 'GigaDB CMS'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
