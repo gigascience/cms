@@ -19,9 +19,9 @@ assignees: ''
 
 ## Ready Checklist
 
-* [ ] the functionality is working locally
-* [ ] there is appropriate documentation
-* [ ] there is appropriate testing
+* [ ] The functionality is working locally
+* [ ] There is appropriate documentation
+* [ ] There is appropriate testing
 * [ ] Data security has not been compromised
 * [ ] No deviation from the team technology stack and software architecture has been introduced
 
