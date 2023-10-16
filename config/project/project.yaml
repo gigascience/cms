@@ -1,4 +1,4 @@
-dateModified: 1697493313
+dateModified: 1697494114
 email:
   fromEmail: admin@rijam.ml1.net
   fromName: 'GigaDB CMS'
@@ -25,6 +25,7 @@ fs:
     url: $OBJECT_STORAGE_ENDPOINT
 meta:
   __names__:
+    1a4c79b2-ddf3-4b72-95e7-852ab2ff7a8e: Simple # Simple
     2c79ab96-cdb4-4f4d-b481-9137d17ee4d8: 'Image Files' # Image Files
     9d3df531-4efc-403f-9ce6-26de65b4c56e: 'GigaDB CMS' # GigaDB CMS
     794caefa-4c9a-4eca-8f28-00d0f726f290: Common # Common
@@ -34,6 +35,10 @@ plugins:
     edition: standard
     enabled: true
     schemaVersion: '2.0'
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
   navigation:
     edition: standard
     enabled: true
