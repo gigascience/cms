@@ -7,6 +7,7 @@
 * In a Pull Request, do mention which issue number it relates to
 * When commenting on others' Pull Requests, use Conventional Comments[2]
 * Reach out to the maintainer before trying to make complex changes
+* If you have multiple PR, make sure they all starts as a draft and only make one PR at-a-time set as Open
 
 ## Formatting your commits
 
