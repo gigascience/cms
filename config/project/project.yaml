@@ -1,14 +1,39 @@
-dateModified: 1697492071
+dateModified: 1697493313
 email:
   fromEmail: admin@rijam.ml1.net
   fromName: 'GigaDB CMS'
   transportType: craft\mail\transportadapters\Sendmail
+fs:
+  filesystemObjectStorage:
+    hasUrls: true
+    name: 'Object Storage Filesystem'
+    settings:
+      addSubfolderToRootUrl: true
+      autoFocalPoint: false
+      bucket: $OBJECT_STORAGE_BUCKET
+      bucketSelectionMode: manual
+      cfDistributionId: ''
+      cfPrefix: ''
+      expires: ''
+      keyId: $OBJECT_STORAGE_KEY
+      makeUploadsPublic: true
+      region: $OBJECT_STORAGE_REGION
+      secret: $OBJECT_STORAGE_SECRET_KEY
+      storageClass: ''
+      subfolder: ''
+    type: craft\awss3\Fs
+    url: $OBJECT_STORAGE_ENDPOINT
 meta:
   __names__:
+    2c79ab96-cdb4-4f4d-b481-9137d17ee4d8: 'Image Files' # Image Files
     9d3df531-4efc-403f-9ce6-26de65b4c56e: 'GigaDB CMS' # GigaDB CMS
     794caefa-4c9a-4eca-8f28-00d0f726f290: Common # Common
     a546404d-d266-44e4-8043-45f37c896067: 'GigaDB CMS' # GigaDB CMS
 plugins:
+  aws-s3:
+    edition: standard
+    enabled: true
+    schemaVersion: '2.0'
   navigation:
     edition: standard
     enabled: true
