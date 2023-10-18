@@ -1,4 +1,4 @@
-dateModified: 1697494114
+dateModified: 1697671790
 email:
   fromEmail: admin@rijam.ml1.net
   fromName: 'GigaDB CMS'
@@ -27,9 +27,17 @@ meta:
   __names__:
     1a4c79b2-ddf3-4b72-95e7-852ab2ff7a8e: Simple # Simple
     2c79ab96-cdb4-4f4d-b481-9137d17ee4d8: 'Image Files' # Image Files
+    4ef510b3-2272-43aa-b249-c7feb612f002: 'Social Media Links' # Social Media Links
     9d3df531-4efc-403f-9ce6-26de65b4c56e: 'GigaDB CMS' # GigaDB CMS
+    64ef4e87-922f-4416-a082-0a897b542e90: 'Main Logo' # Main Logo
+    347fc6c8-ef47-4e04-bcea-a2c37cd0debc: 'Account URL' # Account URL
     794caefa-4c9a-4eca-8f28-00d0f726f290: Common # Common
+    12982b04-bf9b-48e4-8d73-c1344204d9b7: 'Short Name' # Short Name
+    164558fd-6662-415b-86d8-bfc72bbbddc7: Global # Global
+    55794833-ac2b-4dfd-b0f4-3fd5a10b978a: 'Social Media Account' # Social Media Account
+    a593ad16-4e29-4efe-ae8d-2b23f55af1ce: Summary # Summary
     a546404d-d266-44e4-8043-45f37c896067: 'GigaDB CMS' # GigaDB CMS
+    be29ccc6-1ed1-4c65-a912-f8fdc0c4415d: 'Secondary Logo' # Secondary Logo
 plugins:
   aws-s3:
     edition: standard
