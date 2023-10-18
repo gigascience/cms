@@ -1,4 +1,4 @@
-dateModified: 1697672321
+dateModified: 1697672647
 email:
   fromEmail: admin@rijam.ml1.net
   fromName: 'GigaDB CMS'
@@ -29,6 +29,7 @@ meta:
     2c79ab96-cdb4-4f4d-b481-9137d17ee4d8: 'Image Files' # Image Files
     4ef510b3-2272-43aa-b249-c7feb612f002: 'Social Media Links' # Social Media Links
     5c48af56-7d08-49d7-860a-cdbc27e3ec9a: 'Global Content' # Global Content
+    6d2f86f1-aa7d-4072-a801-39f6fdcbe051: 'Main Navigation' # Main Navigation
     9d3df531-4efc-403f-9ce6-26de65b4c56e: 'GigaDB CMS' # GigaDB CMS
     64ef4e87-922f-4416-a082-0a897b542e90: 'Main Logo' # Main Logo
     79f4cf93-dbd0-4645-a4e9-69aec5866904: 'Global Content' # Global Content
