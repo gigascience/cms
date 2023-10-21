@@ -1,0 +1,19 @@
+columnSuffix: wcizuxop
+contentColumnType: text
+fieldGroup: 46ef28c2-314a-409e-8fb4-cec188ecd9bb # Team
+handle: fieldTeamJobTitle
+instructions: null
+name: 'Job Title'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

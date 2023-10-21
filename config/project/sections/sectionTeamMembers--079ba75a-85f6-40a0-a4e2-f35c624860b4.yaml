@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: sectionTeamMembers
+name: 'Team Members'
+propagationMethod: all
+siteSettings:
+  a546404d-d266-44e4-8043-45f37c896067: # GigaDB CMS
+    enabledByDefault: true
+    hasUrls: true
+    template: team-members/_entry
+    uriFormat: 'team/{slug}'
+type: channel
