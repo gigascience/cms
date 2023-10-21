@@ -1,6 +1,10 @@
 {
   "require": {
+    "craftcms/aws-s3": "^2.0",
+    "craftcms/ckeditor": "^3.6",
     "craftcms/cms": "^4.4.0",
+    "verbb/expanded-singles": "^2.0",
+    "verbb/navigation": "^2.0",
     "vlucas/phpdotenv": "^5.4.0"
   },
   "require-dev": {
@@ -27,5 +31,12 @@
     "post-root-package-install": [
       "@php -r \"file_exists('.env') || copy('.env.example.dev', '.env');\""
     ]
-  }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.craftcms.com",
+      "canonical": false
+    }
+  ]
 }

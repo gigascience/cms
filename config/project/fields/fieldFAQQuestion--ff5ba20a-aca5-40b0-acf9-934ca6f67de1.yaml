@@ -1,0 +1,23 @@
+columnSuffix: hjoxmhes
+contentColumnType: text
+fieldGroup: 6f4f2032-5655-473a-9891-4c9fe2a4e9fe # FAQ
+handle: fieldFAQQuestion
+instructions: null
+name: Question
+searchable: true
+settings:
+  availableTransforms: ''
+  availableVolumes: ''
+  ckeConfig: 1a4c79b2-ddf3-4b72-95e7-852ab2ff7a8e # Basic Text
+  columnType: text
+  defaultTransform: null
+  enableSourceEditingForNonAdmins: false
+  purifierConfig: null
+  purifyHtml: true
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  showWordCount: true
+  wordLimit: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\ckeditor\Field

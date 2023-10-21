@@ -1,0 +1,14 @@
+headingLevels: false
+listPlugin: List
+name: 'Basic Text'
+toolbar:
+  - bold
+  - italic
+  - underline
+  - strikethrough
+  - code
+  - subscript
+  - superscript
+  - link
+  - '|'
+  - sourceEditing
