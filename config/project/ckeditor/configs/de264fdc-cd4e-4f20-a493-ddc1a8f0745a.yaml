@@ -1,0 +1,37 @@
+headingLevels:
+  - 3
+  - 4
+  - 5
+  - 6
+listPlugin: List
+name: 'Full Block Styling'
+options:
+  alignment:
+    options:
+      - left
+      - right
+toolbar:
+  - heading
+  - '|'
+  - bold
+  - italic
+  - underline
+  - strikethrough
+  - subscript
+  - superscript
+  - code
+  - link
+  - '|'
+  - alignment
+  - bulletedList
+  - numberedList
+  - todoList
+  - blockQuote
+  - codeBlock
+  - horizontalLine
+  - '|'
+  - insertImage
+  - mediaEmbed
+  - insertTable
+  - '|'
+  - sourceEditing

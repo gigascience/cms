@@ -1,15 +1,14 @@
-headingLevels:
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
+headingLevels: false
 listPlugin: List
-name: Simple
+name: 'Basic Text'
 toolbar:
-  - heading
-  - '|'
   - bold
   - italic
+  - underline
+  - strikethrough
+  - code
+  - subscript
+  - superscript
   - link
+  - '|'
+  - sourceEditing
