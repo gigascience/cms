@@ -1,4 +1,4 @@
-dateModified: 1697874690
+dateModified: 1697876862
 email:
   fromEmail: admin@rijam.ml1.net
   fromName: 'GigaDB CMS'
@@ -31,9 +31,11 @@ meta:
     4ef510b3-2272-43aa-b249-c7feb612f002: 'Social Media Links' # Social Media Links
     5c48af56-7d08-49d7-860a-cdbc27e3ec9a: 'Global Content' # Global Content
     6d2f86f1-aa7d-4072-a801-39f6fdcbe051: 'Main Navigation' # Main Navigation
+    6f4f2032-5655-473a-9891-4c9fe2a4e9fe: FAQ # FAQ
     7c07df6a-cc67-4027-bb02-932119fb7c9d: 'Team Member Image' # Team Member Image
     9d3df531-4efc-403f-9ce6-26de65b4c56e: 'GigaDB CMS' # GigaDB CMS
     45d4b09a-8975-4643-9e53-117ccabdcdc0: 'Job Title' # Job Title
+    45f2b326-f406-4bf0-99b2-dd6c18ed02af: Answer # Answer
     46ef28c2-314a-409e-8fb4-cec188ecd9bb: Team # Team
     64ef4e87-922f-4416-a082-0a897b542e90: 'Main Logo' # Main Logo
     079ba75a-85f6-40a0-a4e2-f35c624860b4: 'Team Members' # Team Members
@@ -47,6 +49,7 @@ meta:
     a546404d-d266-44e4-8043-45f37c896067: 'GigaDB CMS' # GigaDB CMS
     be29ccc6-1ed1-4c65-a912-f8fdc0c4415d: 'Secondary Logo' # Secondary Logo
     de264fdc-cd4e-4f20-a493-ddc1a8f0745a: 'Full Block Styling' # Full Block Styling
+    ff5ba20a-aca5-40b0-acf9-934ca6f67de1: Question # Question
 plugins:
   aws-s3:
     edition: standard

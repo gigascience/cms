@@ -1,0 +1,24 @@
+columnSuffix: twdrcxbw
+contentColumnType: text
+fieldGroup: 6f4f2032-5655-473a-9891-4c9fe2a4e9fe # FAQ
+handle: fieldFAQAnswer
+instructions: null
+name: Answer
+searchable: true
+settings:
+  availableTransforms: ''
+  availableVolumes:
+    - 2c79ab96-cdb4-4f4d-b481-9137d17ee4d8 # Image Files
+  ckeConfig: de264fdc-cd4e-4f20-a493-ddc1a8f0745a # Full Block Styling
+  columnType: text
+  defaultTransform: null
+  enableSourceEditingForNonAdmins: false
+  purifierConfig: null
+  purifyHtml: true
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  showWordCount: true
+  wordLimit: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\ckeditor\Field
