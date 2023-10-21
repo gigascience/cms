@@ -1,4 +1,4 @@
-dateModified: 1697859945
+dateModified: 1697859552
 email:
   fromEmail: admin@rijam.ml1.net
   fromName: 'GigaDB CMS'
@@ -55,10 +55,6 @@ plugins:
     edition: standard
     enabled: true
     schemaVersion: 3.0.0.0
-  expanded-singles:
-    edition: standard
-    enabled: true
-    schemaVersion: 1.0.0
   navigation:
     edition: standard
     enabled: true
