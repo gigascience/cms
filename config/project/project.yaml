@@ -1,4 +1,4 @@
-dateModified: 1697876862
+dateModified: 1697878800
 email:
   fromEmail: admin@rijam.ml1.net
   fromName: 'GigaDB CMS'
@@ -27,6 +27,7 @@ meta:
   __names__:
     0df91118-e81f-4965-bd98-d63f4e14cd81: Default # Default
     1a4c79b2-ddf3-4b72-95e7-852ab2ff7a8e: 'Basic Text' # Basic Text
+    1a381f33-3064-467d-bdb8-921e4b5aa28d: Default # Default
     2c79ab96-cdb4-4f4d-b481-9137d17ee4d8: 'Image Files' # Image Files
     4ef510b3-2272-43aa-b249-c7feb612f002: 'Social Media Links' # Social Media Links
     5c48af56-7d08-49d7-860a-cdbc27e3ec9a: 'Global Content' # Global Content
@@ -41,6 +42,7 @@ meta:
     079ba75a-85f6-40a0-a4e2-f35c624860b4: 'Team Members' # Team Members
     79f4cf93-dbd0-4645-a4e9-69aec5866904: 'Global Content' # Global Content
     347fc6c8-ef47-4e04-bcea-a2c37cd0debc: 'Account URL' # Account URL
+    396db8a3-6f7c-4e8e-b3d0-d3a3838c454f: 'FAQ Items' # FAQ Items
     794caefa-4c9a-4eca-8f28-00d0f726f290: Common # Common
     12982b04-bf9b-48e4-8d73-c1344204d9b7: 'Short Name' # Short Name
     164558fd-6662-415b-86d8-bfc72bbbddc7: Global # Global

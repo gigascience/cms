@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: sectionFAQItems
+name: 'FAQ Items'
+propagationMethod: all
+siteSettings:
+  a546404d-d266-44e4-8043-45f37c896067: # GigaDB CMS
+    enabledByDefault: true
+    hasUrls: true
+    template: faq-items/_entry
+    uriFormat: 'faq/{slug}'
+type: channel
