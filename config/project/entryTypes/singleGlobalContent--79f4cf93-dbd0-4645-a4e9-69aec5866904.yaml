@@ -1,0 +1,94 @@
+fieldLayouts:
+  9c33fe75-5be5-4d88-a487-5364e93ac368:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 1a7d26a4-fc81-49a4-81e6-1457b7c42365
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 64ef4e87-922f-4416-a082-0a897b542e90 # Main Logo
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 5e6dbdee-ffee-4f51-ad95-27d73d7b0345
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: be29ccc6-1ed1-4c65-a912-f8fdc0c4415d # Secondary Logo
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 23b4012f-73a4-432d-999d-a30194c36c3f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 4ef510b3-2272-43aa-b249-c7feb612f002 # Social Media Links
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 23ae755e-9a89-43c8-9ff1-c366ebfa0532
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: a593ad16-4e29-4efe-ae8d-2b23f55af1ce # Summary
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 3bd115d0-cf0c-4f2d-a657-7581bf17279c
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 8b3dd880-62e8-478c-b58c-dac9c4af595d
+        userCondition: null
+handle: singleGlobalContent
+hasTitleField: false
+name: 'Global Content'
+section: 5c48af56-7d08-49d7-860a-cdbc27e3ec9a # Global Content
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

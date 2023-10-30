@@ -1,0 +1,16 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 164558fd-6662-415b-86d8-bfc72bbbddc7 # Global
+handle: matrixSocialMedia
+instructions: null
+name: 'Social Media Links'
+searchable: false
+settings:
+  contentTable: '{{%matrixcontent_matrixsocialmedia}}'
+  maxBlocks: null
+  minBlocks: null
+  propagationKeyFormat: null
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix
