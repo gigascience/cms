@@ -20,7 +20,7 @@ fs:
       region: $OBJECT_STORAGE_REGION
       secret: $OBJECT_STORAGE_SECRET_KEY
       storageClass: ''
-      subfolder: ''
+      subfolder: $OBJECT_STORAGE_SUBPATH
     type: craft\awss3\Fs
     url: $OBJECT_STORAGE_ENDPOINT
 meta:
